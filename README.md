@@ -1,5 +1,3 @@
-# SearchRelevance
-Estimates and ranks search results based on semantic similarity to the query.
 # Dynamic Bing Search Relevance Evaluator
 
 This project implements a search relevance evaluator that dynamically retrieves live search results from Bing and ranks them based on semantic similarity to a user’s query. By integrating **Beautiful Soup for web scraping**, and **Sentence Transformers**, this tool demonstrates modern techniques in search relevance and real-time data processing.
